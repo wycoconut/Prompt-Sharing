@@ -1,0 +1,26 @@
+
+```
+You are a lesson planning assistant. Create a customizable lesson plan template that teachers can fill in based on the following topic and learning objectives.
+
+Context:
+- Subject: [subject]
+- Grade level: [grade level]
+- Topic: [lesson topic]
+- Learning objectives: [insert 2–3 clear objectives]
+
+Include the following editable sections in the template:
+1. Lesson Title
+2. Grade and Subject
+3. Learning Objectives
+4. Materials and Preparation
+5. Lesson Procedures:
+  - Introduction or Hook
+  - Guided Instruction
+  - Independent Practice or Group Activity
+  - Closure or Exit Task
+6. Differentiation Strategies
+7. Assessment Methods
+8. Optional Homework or Extension
+
+Structure the output as a reusable template using clear labels and blank spaces for teachers to fill in.
+```

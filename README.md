@@ -72,7 +72,7 @@ Use analogies and metaphors from [insert relatable domain] to make the topic cli
 
 <details open>
 
-<summary>💬 Learning Leanguages</summary>
+<summary>💬 Learning Languages</summary>
 
 ### Language Coach: 
 
@@ -160,6 +160,105 @@ Act as a motivational tutor.
 Share practical strategies to overcome shyness and build speaking confidence in [LANGUAGE].
 Include daily speaking exercises, mindset shifts, and ways to practice with native speakers (even if I don't live in that country).
 Make the advice realistic for someone learning alone at home.
+```
+
+</details>
+
+<details open>
+
+<summary>🤔 Improve Memory Recall With Some Help</summary>
+
+
+# Link or Story Technique
+
+``` title:"Prompt" ln:false
+Help me to memorize this list of words: [words] by using the link or story technique.
+```
+
+
+# Mnemonic Device
+
+``` title:"Prompt" ln:false
+Show me how to use a mnemonic device to remember [information] better.
+```
+
+
+# Visual Memory
+
+``` title:"Prompt" ln:false
+Give me some tips to improve my visual memory and create mental images of [information].
+```
+
+
+# Acronym
+
+``` title:"Prompt" ln:false
+Provide me with some examples of acronyms that can help me memorize [information].
+```
+
+
+# Association
+
+``` title:"Prompt" ln:false
+Explain how to use association to link [new information] to [old information] that I already know or remember.
+```
+
+
+# Feynman Technique
+
+``` title:"Prompt" ln:false
+Simplify and explain [concept] in simple terms by using the Feynman technique.
+```
+
+
+# Chunking
+
+``` title:"Prompt" ln:false
+Apply the chunking technique to break down [information] into smaller units.
+```
+
+
+# Spaced Repetition
+
+``` title:"Prompt" ln:false
+What is the concept of spaced repetition and why is it effective for memorizing [topic]?
+```
+
+
+# Memory Error
+
+``` title:"Prompt" ln:false
+Identify some common memory errors and how to avoid them when learning [topic].
+```
+
+
+# Rhyme or Song
+
+``` title:"Prompt" ln:false
+Create a rhyme or song to make memorizing [information] more fun and easy.
+```
+
+
+# Active Recall with Role Play
+
+``` title:"Prompt" ln:false
+Help me do active recall on [topic].
+Ask me a question and I will give you an answer.
+Correct me and advise how I can answer it better.
+```
+
+
+# Mind Map
+
+``` title:"Prompt" ln:false
+Teach me how to use mind maps to organize and memorize [information].
+```
+
+
+# Flashcard
+
+``` title:"Prompt" ln:false
+Tell me some benefits of using flashcards for memorizing [information].
 ```
 
 </details>

@@ -74,7 +74,7 @@ Use analogies and metaphors from [insert relatable domain] to make the topic cli
 
 <summary>💬 Learning Leanguages</summary>
 
-## Language Coach: 
+### Language Coach: 
 
 ``` 
 Act as a tutor.
@@ -84,7 +84,7 @@ Make the plan progressive so I build a solid foundation by the end of 30 days.
 ```
 
 
-## Conversation Simulator: 
+### Conversation Simulator: 
 
 ``` 
 You are a native [LANGUAGE] speaker.
@@ -94,7 +94,7 @@ Keep the tone encouraging, and slowly increase complexity as I improve.
 ```
 
 
-## Grammar Simplifier: 
+### Grammar Simplifier: 
 
 ``` 
 Act as a teacher.
@@ -104,7 +104,7 @@ and share a quick tip to remember the rule without confusion.
 ```
 
 
-## Pronunciation Trainer: 
+### Pronunciation Trainer: 
 
 ``` 
 You are a linguist.
@@ -114,7 +114,7 @@ Provide practice words and a short drill I can repeat daily to improve pronunci
 ```
 
 
-## Daily Word Immersion: 
+### Daily Word Immersion: 
 
 ``` 
 Act as a mentor.
@@ -124,7 +124,7 @@ Make the list cumulative so I can recycle words in later practice.
 ```
 
 
-## Listening Practice Guide: 
+### Listening Practice Guide: 
 
 ``` 
 You are a coach.
@@ -134,7 +134,7 @@ Include both fun and practical options so l stay consistent.
 ```
 
 
-## Cultural Context Mentor: 
+### Cultural Context Mentor: 
 
 ``` 
 Act as a cultural guide.
@@ -143,7 +143,7 @@ Provide examples of phrases where these nuances matter, so l avoid sounding rud
 ```
 
 
-## Error Corrector: 
+### Error Corrector: 
 
 ``` 
 You are a teacher.
@@ -153,7 +153,7 @@ Always explain in a way that helps me avoid repeating the same error.
 ```
 
 
-## Confidence Booster: 
+### Confidence Booster: 
 
 ``` 
 Act as a motivational tutor.

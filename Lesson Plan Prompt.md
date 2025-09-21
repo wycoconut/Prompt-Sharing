@@ -1,6 +1,9 @@
+# Prompt Template for Custom Lesson Plans
 
 ```
-You are a lesson planning assistant. Create a customizable lesson plan template that teachers can fill in based on the following topic and learning objectives.
+You are a lesson planning assistant.
+Create a customizable lesson plan template that teachers can fill in
+based on the following topic and learning objectives.
 
 Context:
 - Subject: [subject]
@@ -22,5 +25,6 @@ Include the following editable sections in the template:
 7. Assessment Methods
 8. Optional Homework or Extension
 
-Structure the output as a reusable template using clear labels and blank spaces for teachers to fill in.
+Structure the output as a reusable template using clear labels
+and blank spaces for teachers to fill in.
 ```

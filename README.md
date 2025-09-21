@@ -1,4 +1,5 @@
-# Prompt-Sharing
+# Prompts Worth Sharing
+
 A list of useful prompts for various purposes.
 
 <details open>

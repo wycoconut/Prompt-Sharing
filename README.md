@@ -4,7 +4,7 @@ A list of useful prompts for various purposes.
 
 <details open>
 
-<summary>🧠 Learning Faster</summary>
+<summary>🧠 Learning 10x Faster</summary>
 
 ### Socratic-Style Mastery
 

@@ -10,7 +10,8 @@ A list of useful prompts for various purposes.
 
 ```
 Act as my Socratic tutor.
-I want to learn [insert topic]. Ask me progressive, thought-provoking questions from beginner to expert level.
+I want to learn [insert topic].
+Ask me progressive, thought-provoking questions from beginner to expert level.
 Only reveal the answers if I’m stuck, and explain each answer like I’m 5.
 ```
   
@@ -79,7 +80,9 @@ Use analogies and metaphors from [insert relatable domain] to make the topic cli
 ``` 
 Act as a tutor.
 Build me a 30-day beginner-friendly learning plan to study [LANGUAGE].
-Each day should include: one short grammar or vocabulary micro-lesson, a listening activity (audio, song, or short clip), and a simple conversation practice exercise I can try.
+Each day should include: one short grammar or vocabulary micro-lesson,
+a listening activity (audio, song, or short clip),
+and a simple conversation practice exercise I can try.
 Make the plan progressive so I build a solid foundation by the end of 30 days.
 ```
 
@@ -118,7 +121,8 @@ Provide practice words and a short drill I can repeat daily to improve pronunci
 
 ``` 
 Act as a mentor.
-Create a daily list of 10 practical vocabulary words or phrases in [LANGUAGE] that I can use in everyday life (e.g., greetings, asking directions, ordering food).
+Create a daily list of 10 practical vocabulary words or phrases in [LANGUAGE]
+that I can use in everyday life (e.g., greetings, asking directions, ordering food).
 For each word, include the translation, pronunciation guide, and a sample sentence.
 Make the list cumulative so I can recycle words in later practice.
 ```
@@ -129,7 +133,8 @@ Make the list cumulative so I can recycle words in later practice.
 ``` 
 You are a coach.
 Recommend 5 short beginner-friendly resources in [LANGUAGE] (podcasts, YouTube channels, songs, or videos).
-For each one, explain how I should actively use it to improve listening (e.g., listening for keywords, repeating aloud, shadowing).
+For each one, explain how I should actively use it to improve listening
+(e.g., listening for keywords, repeating aloud, shadowing).
 Include both fun and practical options so l stay consistent.
 ```
 
@@ -138,7 +143,8 @@ Include both fun and practical options so l stay consistent.
 
 ``` 
 Act as a cultural guide.
-Explain 3 important cultural nuances in [LANGUAGE] that impact meaning, politeness, or tone during conversations (e.g., honorifics, informal vs. formal speech, gestures).
+Explain 3 important cultural nuances in [LANGUAGE] that impact meaning, politeness,
+or tone during conversations (e.g., honorifics, informal vs. formal speech, gestures).
 Provide examples of phrases where these nuances matter, so l avoid sounding rude or unnatural.
 ```
 
@@ -158,7 +164,8 @@ Always explain in a way that helps me avoid repeating the same error.
 ``` 
 Act as a motivational tutor.
 Share practical strategies to overcome shyness and build speaking confidence in [LANGUAGE].
-Include daily speaking exercises, mindset shifts, and ways to practice with native speakers (even if I don't live in that country).
+Include daily speaking exercises, mindset shifts,
+and ways to practice with native speakers (even if I don't live in that country).
 Make the advice realistic for someone learning alone at home.
 ```
 
@@ -169,77 +176,77 @@ Make the advice realistic for someone learning alone at home.
 <summary>🤔 Improve Memory Recall With Some Help</summary>
 
 
-# Link or Story Technique
+### Link or Story Technique
 
 ``` title:"Prompt" ln:false
 Help me to memorize this list of words: [words] by using the link or story technique.
 ```
 
 
-# Mnemonic Device
+### Mnemonic Device
 
 ``` title:"Prompt" ln:false
 Show me how to use a mnemonic device to remember [information] better.
 ```
 
 
-# Visual Memory
+### Visual Memory
 
 ``` title:"Prompt" ln:false
 Give me some tips to improve my visual memory and create mental images of [information].
 ```
 
 
-# Acronym
+### Acronym
 
 ``` title:"Prompt" ln:false
 Provide me with some examples of acronyms that can help me memorize [information].
 ```
 
 
-# Association
+### Association
 
 ``` title:"Prompt" ln:false
 Explain how to use association to link [new information] to [old information] that I already know or remember.
 ```
 
 
-# Feynman Technique
+### Feynman Technique
 
 ``` title:"Prompt" ln:false
 Simplify and explain [concept] in simple terms by using the Feynman technique.
 ```
 
 
-# Chunking
+### Chunking
 
 ``` title:"Prompt" ln:false
 Apply the chunking technique to break down [information] into smaller units.
 ```
 
 
-# Spaced Repetition
+### Spaced Repetition
 
 ``` title:"Prompt" ln:false
 What is the concept of spaced repetition and why is it effective for memorizing [topic]?
 ```
 
 
-# Memory Error
+### Memory Error
 
 ``` title:"Prompt" ln:false
 Identify some common memory errors and how to avoid them when learning [topic].
 ```
 
 
-# Rhyme or Song
+### Rhyme or Song
 
 ``` title:"Prompt" ln:false
 Create a rhyme or song to make memorizing [information] more fun and easy.
 ```
 
 
-# Active Recall with Role Play
+### Active Recall with Role Play
 
 ``` title:"Prompt" ln:false
 Help me do active recall on [topic].
@@ -248,14 +255,14 @@ Correct me and advise how I can answer it better.
 ```
 
 
-# Mind Map
+### Mind Map
 
 ``` title:"Prompt" ln:false
 Teach me how to use mind maps to organize and memorize [information].
 ```
 
 
-# Flashcard
+### Flashcard
 
 ``` title:"Prompt" ln:false
 Tell me some benefits of using flashcards for memorizing [information].

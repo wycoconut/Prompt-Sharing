@@ -47,7 +47,6 @@ Evaluate: Assess the effectiveness of a project plan based on given constraints.
 
 Create: Design a project management plan for a small business initiative.
 
-
 Now, refine and convert the following vague learning goals into structured learning objectives:
 [Insert vague learning goals here]
 

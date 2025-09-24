@@ -272,5 +272,5 @@ Tell me some benefits of using flashcards for memorizing [information].
 
 [Prompt Template for Custom Lesson Plans](Lesson-Plan-Prompt.md)
 
-
+[Prompt Template for Assessments](Assessment-Prompts.md)
 

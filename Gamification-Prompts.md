@@ -13,6 +13,13 @@ Include:
 
 ```
 
+# Simple 1 sentence Prompt
+
+```
+Can you create a game for me to learn music notes.
+```
+
+
 # Explain Something Interactively
 
 
